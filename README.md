@@ -1,1 +1,1 @@
-<h1 styles="align: center">sim</h1>
+<h1 styles="text-align: center">sim</h1>
