@@ -4,4 +4,4 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="100" height="50"
      style="background: red"
->
+> </svg>
