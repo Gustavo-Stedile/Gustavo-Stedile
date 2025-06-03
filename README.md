@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+[Your+Name];Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Gustavo;Welcome+to+my+profile!" alt="Typing SVG" />
   
   ![GitHub Snake Light](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![GitHub Snake Dark](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
